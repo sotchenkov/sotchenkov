@@ -8,9 +8,9 @@ I'm currently building [Nutriapix](https://nutriapix.ru/) — a nutrition API an
 
 ## Tech stack
 
-- **Development:** Go, Svelte, TypeScript, Python, Bash, SQL
-- **Infrastructure & CI/CD:** Linux, Docker, Ansible, Jenkins, GitLab CI/CD
-- **Observability:** Grafana, Prometheus
+- **Development:** Go, Svelte, TypeScript, Python, SQL
+- **Infrastructure & CI/CD:** Linux, Docker, Ansible, Jenkins, GitLab CI/CD, Bash
+- **Observability:** Grafana, Prometheus, Loki
 
 ## Open to work
 
