@@ -1,6 +1,6 @@
 # Hi, I'm Lex 👋
 
-**DevOps Engineer · Full-stack Developer · Founder**
+**DevOps Engineer · Full-stack Developer**
 
 I have 3+ years of hands-on experience building, deploying, and operating web products — from application code and CI/CD to infrastructure, monitoring, and production troubleshooting
 
