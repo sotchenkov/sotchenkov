@@ -14,4 +14,4 @@ I'm currently building [Nutriapix](https://nutriapix.ru/) — a nutrition API an
 
 ## Open to work
 
-I'm open to DevOps, infrastructure, and full-stack opportunities — especially with startups and small teams where I can take ownership and help build products end to end
+I'm open to DevOps, infrastructure, and full-stack opportunities — especially with startups and small teams where I can help build products end to end
